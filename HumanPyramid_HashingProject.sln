@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34221.43
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "HumanPyramid_HashingProject", "HumanPyramid_HashingProject.pyproj", "{4D44A15C-893B-400E-A6F1-8F3FF3A86743}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4D44A15C-893B-400E-A6F1-8F3FF3A86743}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4D44A15C-893B-400E-A6F1-8F3FF3A86743}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AA7BFBA8-016D-4733-8FC6-2210E96C4043}
+	EndGlobalSection
+EndGlobal
